@@ -1,0 +1,12 @@
+h1{
+    color: black;
+}
+table{
+    background-color:lavender;
+    border:7px solid black;
+    border-radius: 7px;
+    padding: 1%;
+}
+th,td{
+    position:relative;
+}
